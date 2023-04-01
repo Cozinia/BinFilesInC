@@ -1,0 +1,10 @@
+Date: 01.04.2023 Time: 19:05:31: User chose option 1-add employee with name: Ion Vasilescu
+Date: 01.04.2023 Time: 19:06:29: User chose option 1-add employee with name: Maria Dumitrescu
+Date: 01.04.2023 Time: 19:07:16: User chose option 1-add employee with name: Marius Cristea
+Date: 01.04.2023 Time: 19:08:43: User chose option 1-add employee with name: Diana Mitrea
+Date: 01.04.2023 Time: 19:09:26: User chose option 1-add employee with name: Alexandru Istrate
+Date: 01.04.2023 Time: 19:09:28: User chose option 2-view employees
+Date: 01.04.2023 Time: 19:10:03: User chose option 3-modify employee
+Date: 01.04.2023 Time: 19:10:00: New age: 27
+Date: 01.04.2023 Time: 19:10:21: User chose option 4-delete employee with name: Alexandru Istrate
+Date: 01.04.2023 Time: 19:10:23: User chose option 2-view employees
