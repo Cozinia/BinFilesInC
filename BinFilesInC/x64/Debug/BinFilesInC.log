@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Cozinia Motronu\source\repos\1testNewEmployyes\BinFilesInC\BinFilesInC\Main.cpp(155,10): warning C4101: 'modifEmpl': unreferenced local variable
+C:\Users\Cozinia Motronu\source\repos\1testNewEmployyes\BinFilesInC\BinFilesInC\Main.cpp(191,19): warning C4309: 'argument': truncation of constant value
+C:\Users\Cozinia Motronu\source\repos\1testNewEmployyes\BinFilesInC\BinFilesInC\Main.cpp(196,17): warning C4309: 'argument': truncation of constant value
+  BinFilesInC.vcxproj -> C:\Users\Cozinia Motronu\source\repos\1testNewEmployyes\BinFilesInC\x64\Debug\BinFilesInC.exe
